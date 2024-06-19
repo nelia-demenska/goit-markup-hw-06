@@ -982,6 +982,8 @@ Footer
     flex-wrap: wrap;
         flex-direction: row;
         align-items: flex-start;
+        justify-content: flex-start;
+        padding-left: 108px;
         gap: 72px 24px;
     }
     .logo-footer{
@@ -1013,6 +1015,7 @@ Footer
         padding: 100px 0;
     }
     .footer-container {
+        padding-left: 0;
         align-items: baseline;
     }
     .social-media {
